@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Galano Grotesque Alt';
+    src: url('GalanoGrotesqueAlt-ExtraBold.woff2') format('woff2'),
+        url('GalanoGrotesqueAlt-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galano Grotesque Alt';
+    src: url('GalanoGrotesqueAlt-SemiBold.woff2') format('woff2'),
+        url('GalanoGrotesqueAlt-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

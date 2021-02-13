@@ -1,0 +1,17 @@
+html, body{
+    @apply h-full m-0;
+}
+body{
+    @apply flex flex-wrap w-full;
+}
+.wrapper {
+    @apply flex content-between flex-wrap w-full h-full;
+}
+
+.main-container{
+    @apply w-full;
+}
+
+.container{
+    @apply ml-auto mr-auto;
+}
